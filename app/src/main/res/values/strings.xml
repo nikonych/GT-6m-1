@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GT-6m-1</string>
+    <string name="text">text</string>
+    <string name="go">GO</string>
+    <string name="go_back">GO BACK</string>
+    <string name="empty_edit_text">EditText не может быть пустым</string>
+</resources>
